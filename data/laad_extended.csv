@@ -1,0 +1,23 @@
+patient_id,date_of_service,ndc_code,drug_name,claim_status,payer_type,step_therapy_required,prior_authorization,rebate_applied,out_of_pocket_cost,days_supplied,therapy_start_flag,therapy_discontinuation_date,patient_copay_support,patient_copay_support_used,channel,region,prescriber_specialty
+P1001,01-01-2024,55513-841-01,Erenumab,Approved,Commercial,No,Yes,Yes,45.0,30,Yes,,120.5,Yes,Retail,Midwest,Neurology
+P1001,01-02-2024,55513-841-01,Erenumab,Approved,Commercial,No,Yes,Yes,42.0,30,No,,120.5,Yes,Retail,Midwest,Neurology
+P1001,10-04-2024,55513-841-01,Erenumab,Approved,Commercial,No,Yes,Yes,44.0,30,No,,120.5,Yes,Retail,Midwest,Neurology
+P1002,15-01-2024,28289-2679-96,Etanercept,Approved,Medicare,Yes,Yes,No,88.0,30,Yes,,200.0,Yes,Specialty,South,Rheumatology
+P1002,15-02-2024,28289-2679-96,Etanercept,Approved,Medicare,Yes,Yes,No,92.0,30,No,,200.0,Yes,Specialty,South,Rheumatology
+P1002,20-03-2024,70217-9785-25,Erenumab,Approved,Medicare,Yes,Yes,No,95.0,30,No,,200.0,Yes,Specialty,South,Rheumatology
+P1003,10-01-2024,46048-5012-38,Trastuzumab,Approved,Medicaid,No,No,Yes,30.0,90,Yes,,60.0,No,Mail Order,West,Oncology
+P1003,15-04-2024,46048-5012-38,Trastuzumab,Approved,Medicaid,No,No,Yes,35.0,90,No,,60.0,No,Mail Order,West,Oncology
+P1004,05-01-2024,55513-841-01,Erenumab,Pending,Commercial,Yes,Yes,No,120.0,30,Yes,,150.0,Yes,Retail,East,Neurology
+P1004,12-02-2024,55513-841-01,Erenumab,Approved,Commercial,Yes,Yes,No,110.0,30,No,,150.0,Yes,Retail,East,Neurology
+P1005,08-01-2024,28289-2679-96,Etanercept,Denied,Commercial,Yes,Yes,No,130.0,30,Yes,,180.0,No,Retail,Midwest,Rheumatology
+P1006,12-01-2024,70217-9785-25,Erenumab,Approved,Self-pay,No,No,No,210.0,30,Yes,,0.0,No,Retail,South,Neurology
+P1006,15-02-2024,70217-9785-25,Erenumab,Approved,Self-pay,No,No,No,215.0,30,No,,0.0,No,Retail,South,Neurology
+P1007,01-02-2024,46048-5012-38,Trastuzumab,Approved,Medicaid,No,No,Yes,25.0,90,Yes,,70.0,Yes,Mail Order,West,Oncology
+P1007,01-05-2024,46048-5012-38,Trastuzumab,Approved,Medicaid,No,No,Yes,22.0,90,No,,70.0,Yes,Mail Order,West,Oncology
+P1008,20-01-2024,55513-841-01,Erenumab,Approved,Commercial,No,Yes,Yes,50.0,30,Yes,,110.0,Yes,Specialty,East,Neurology
+P1008,20-02-2024,55513-841-01,Erenumab,Approved,Commercial,No,Yes,Yes,48.0,30,No,,110.0,Yes,Specialty,East,Neurology
+P1008,20-04-2024,55513-841-01,Erenumab,Approved,Commercial,No,Yes,Yes,52.0,30,No,,110.0,Yes,Specialty,East,Neurology
+P1009,03-01-2024,28289-2679-96,Etanercept,Approved,Military,No,No,Yes,60.0,30,Yes,,140.0,Yes,Retail,Midwest,Rheumatology
+P1009,03-02-2024,28289-2679-96,Etanercept,Approved,Military,No,No,Yes,63.0,30,No,,140.0,Yes,Retail,Midwest,Rheumatology
+P1010,10-02-2024,46048-5012-38,Trastuzumab,Approved,Medicare,No,Yes,Yes,45.0,90,Yes,,100.0,Yes,Specialty,South,Oncology
+P1010,20-06-2024,46048-5012-38,Trastuzumab,Approved,Medicare,No,Yes,Yes,40.0,90,No,,100.0,Yes,Specialty,South,Oncology

@@ -1,0 +1,277 @@
+Patient_ID,Date_of_Service,NDC_Code,Drug_Name,Claim_Status,Payer_Type,Step_Therapy_Required,Prior_Authorization,Rebate_Applied,Out_of_Pocket_Cost,Days_Supplied,Therapy_Start_Flag,Therapy_Discontinuation_Date,Patient_Copay_Support,Patient_Copay_Support_Used,Channel,Region,Prescriber_Specialty
+5e5d4e22-fdfc-41f7-a4ec-6fbae1811063,24-10-2023,28289-2679-96,Trastuzumab,Approved,Self-pay,No,No,No,81.33,30,Yes,,210.55,Yes,Specialty,Midwest,Oncology
+1b99e8f8-c494-4aaf-81bf-45d6c614619b,16-04-2024,28289-2679-96,Etanercept,Pending,Medicare,Yes,Yes,No,189.73,90,Yes,,252.86,Yes,Retail,Midwest,Rheumatology
+16b56a19-1d4a-488d-a801-af3cce5c51b2,29-12-2023,46048-5012-38,Trastuzumab,Approved,Medicaid,No,No,Yes,105.49,90,No,,63.79,No,Mail Order,West,Endocrinology
+0460ae4b-ab44-4926-8be1-5b32499023e0,11-06-2025,70217-9785-25,Erenumab,Pending,Self-pay,Yes,No,Yes,123.31,90,No,,224.1,Yes,Mail Order,South,Neurology
+4f6db71c-1ce2-4e43-b233-3b5d732d9f1a,06-11-2024,22676-6881-54,Etanercept,Rejected,Medicaid,Yes,Yes,No,45.45,7,Yes,,47.99,Yes,Specialty,Midwest,Oncology
+8c7f1b2b-1109-4cac-85de-6fb9d83bfe68,10-10-2024,22676-6881-54,Etanercept,Approved,Self-pay,No,No,No,485.54,7,Yes,,161.09,Yes,Retail,Midwest,Neurology
+de63f881-b98d-4e24-ae56-fe88992f6249,23-11-2023,38893-8359-85,Bevacizumab,Approved,Medicaid,No,Yes,No,1.62,30,Yes,,31.92,Yes,Mail Order,South,Oncology
+53ad4a17-77b5-40ab-8dd9-f973f71395fe,20-11-2024,46463-1106-30,Infliximab,Pending,Medicare,Yes,No,Yes,269.69,90,Yes,,146.58,Yes,Specialty,West,Cardiology
+ec95561e-b0cf-4d86-acbc-c7110c9dc5f5,29-11-2023,81482-2424-85,Bevacizumab,Rejected,Medicare,Yes,Yes,Yes,42.83,60,Yes,02-06-2024,159.81,Yes,Mail Order,Northeast,Cardiology
+e6a34913-c80a-4ec5-9581-79e5ec692e38,13-04-2025,65302-1520-13,Nivolumab,Pending,Self-pay,Yes,No,No,482.18,90,Yes,21-06-2025,119.7,No,Retail,South,Rheumatology
+0583059b-c3a6-4981-8dbf-86fad8d1ce26,06-05-2025,30379-4527-53,Dupilumab,Pending,Self-pay,Yes,Yes,Yes,32.01,7,Yes,,2.16,Yes,Specialty,Northeast,Endocrinology
+0b3d4775-0b81-4787-9915-68bb23b1ab79,08-05-2025,46048-5012-38,Trastuzumab,Approved,Commercial,No,Yes,Yes,139.24,60,Yes,,217.01,Yes,Mail Order,West,Neurology
+629cdd3e-86ae-48a9-8d86-c2a76b746df7,23-01-2024,35203-2139-15,Etanercept,Rejected,Medicare,No,No,Yes,47.16,60,No,,127.07,Yes,Retail,Midwest,Endocrinology
+879596cb-4a5f-4407-96b8-2a5626063c54,18-11-2023,89131-5333-15,Adalimumab,Pending,Commercial,Yes,No,No,400.3,7,Yes,,160.89,Yes,Mail Order,Midwest,Cardiology
+a1311313-e215-4217-9298-f3ea06ae3d1e,08-07-2025,65302-1520-13,Erenumab,Approved,Medicaid,No,Yes,Yes,221.57,90,Yes,,299.78,Yes,Specialty,West,Neurology
+442d0a94-f26f-486f-b2d3-aa4b8b397f68,27-09-2024,93810-2824-13,Pembrolizumab,Approved,Medicare,No,No,No,106.87,60,Yes,,0.65,Yes,Retail,West,Rheumatology
+dbeabd10-1871-49b8-b62b-b900992d855c,18-03-2025,23396-2519-58,Imatinib,Rejected,Medicaid,No,No,Yes,94.95,14,Yes,,162.66,No,Specialty,West,Endocrinology
+81ba00c9-2db2-4096-82e7-b53602aaeec3,19-02-2025,65392-6574-45,Adalimumab,Approved,Military,No,Yes,Yes,480.39,7,Yes,,20.39,No,Mail Order,West,Oncology
+da36a76f-e938-4b0f-89c1-d18abf76d33b,27-01-2024,36062-9928-63,Erenumab,Approved,Military,Yes,Yes,Yes,209.61,90,No,,280.41,Yes,Mail Order,West,Oncology
+f58a3abe-4f4a-4a10-8e75-c0e6119d823d,30-06-2025,76237-1434-81,Bevacizumab,Approved,Medicaid,No,Yes,No,228.61,7,Yes,,299.54,No,Retail,West,Neurology
+2eabc312-4941-450f-8b2a-1ac666c6929d,16-03-2025,81482-2424-85,Pembrolizumab,Pending,Medicare,No,Yes,No,440.43,14,No,,85.5,No,Mail Order,West,Oncology
+66a6d635-bab0-4af7-bc1e-ff5de8329680,16-06-2024,89131-5333-15,Infliximab,Pending,Medicaid,Yes,No,Yes,469.47,14,No,,34.63,Yes,Specialty,Midwest,Oncology
+06ff182e-6ca7-427e-aef6-49e12b706fd3,11-02-2024,81482-2424-85,Infliximab,Approved,Medicaid,No,Yes,No,101.8,30,No,,75.34,Yes,Mail Order,Northeast,Cardiology
+8c36bd6b-b005-4505-8e5b-7af2d059a61f,25-07-2023,46048-5012-38,Pembrolizumab,Pending,Self-pay,No,Yes,Yes,166.78,14,No,,48.47,No,Specialty,Northeast,Rheumatology
+e9600699-a949-441f-b593-d9417ca78232,10-06-2025,89131-5333-15,Infliximab,Pending,Self-pay,Yes,Yes,Yes,472.53,14,Yes,18-07-2025,174.75,Yes,Mail Order,Midwest,Oncology
+983530ed-16ca-4d38-82fd-5561af53745f,12-01-2025,65302-1520-13,Erenumab,Approved,Commercial,No,No,Yes,449.46,14,Yes,,106.1,Yes,Specialty,South,Oncology
+dcfff498-7f67-4944-ae14-1db1754b87c4,12-12-2023,48427-6925-83,Erenumab,Pending,Medicare,Yes,Yes,Yes,440.71,7,Yes,19-05-2024,99.66,No,Specialty,Northeast,Endocrinology
+4d6e5c57-5d7a-483c-9939-a12019603a8e,02-05-2024,22676-6881-54,Trastuzumab,Rejected,Medicare,Yes,No,Yes,429.3,14,Yes,02-06-2025,138.09,No,Specialty,South,Neurology
+dd4796a0-cef6-4d54-a658-b4d3725447f8,08-02-2024,46463-1106-30,Trastuzumab,Approved,Commercial,Yes,No,No,139.3,7,No,,105.34,Yes,Mail Order,Midwest,Cardiology
+f87a0c72-4e69-4785-9ff4-0384f148e004,18-03-2025,59615-2291-80,Erenumab,Pending,Military,No,Yes,Yes,438.52,30,Yes,,295.07,No,Specialty,South,Neurology
+08e2e47b-6087-47de-9ac6-441b7a8a6a86,13-02-2024,46048-5012-38,Pembrolizumab,Pending,Self-pay,No,No,No,303.1,90,Yes,,172.98,Yes,Retail,Midwest,Endocrinology
+8bed2657-3322-4a17-bb10-eb7d855bd458,04-06-2025,38893-8359-85,Adalimumab,Pending,Self-pay,Yes,Yes,No,215.65,30,No,,199.02,Yes,Mail Order,West,Endocrinology
+8922f9ec-d6da-45b2-9817-906597ef3783,04-07-2024,81482-2424-85,Imatinib,Pending,Medicaid,No,No,No,348.6,90,Yes,,199.48,Yes,Specialty,West,Endocrinology
+bf71963b-186c-4e22-aa20-fa312a543ae0,23-07-2023,23396-2519-58,Nivolumab,Pending,Military,No,No,Yes,151.94,14,No,,235.73,Yes,Specialty,Northeast,Oncology
+c5b2add4-4ffd-4a97-ace2-a9b4477d9d06,06-09-2024,96673-4733-47,Bevacizumab,Rejected,Self-pay,No,Yes,No,396.87,14,Yes,,199.16,Yes,Specialty,Northeast,Neurology
+4458f549-f24d-454e-af0b-1ecd2774f854,20-10-2024,96673-4733-47,Bevacizumab,Approved,Medicare,No,Yes,Yes,73.68,7,Yes,02-05-2025,183.38,Yes,Specialty,South,Neurology
+e6e85817-c997-42a2-849e-7d5847f123ac,29-11-2023,28289-2679-96,Dupilumab,Rejected,Military,Yes,No,No,199.83,14,Yes,26-06-2024,258.13,No,Retail,South,Neurology
+e1a1d091-7419-4064-b6b3-c683e600d55e,08-04-2024,81482-2424-85,Erenumab,Approved,Medicare,No,Yes,Yes,458.74,7,No,,40,No,Retail,Northeast,Rheumatology
+f6b681ab-a0ce-4321-8da6-bb8f95844628,10-07-2025,89131-5333-15,Infliximab,Pending,Military,No,No,No,415.28,90,No,,269.16,No,Retail,West,Cardiology
+f2752a00-a44b-4d22-8a27-b784dea57274,03-03-2024,70217-9785-25,Dupilumab,Rejected,Medicare,No,No,Yes,137.3,7,No,,70.35,No,Specialty,Midwest,Oncology
+1dfc2ddf-3043-45c9-a03c-dd4d0d97773a,19-04-2024,65392-6574-45,Bevacizumab,Pending,Commercial,Yes,Yes,Yes,191.52,14,Yes,,122.28,Yes,Specialty,West,Cardiology
+5014fdc9-4fbc-48a1-b424-831d37d92db5,18-12-2023,48427-6925-83,Dupilumab,Rejected,Commercial,Yes,No,No,452.42,90,Yes,20-10-2024,229.68,No,Mail Order,Northeast,Oncology
+36b5f9e8-4e78-4916-a8e3-1be1be413c66,20-03-2025,23396-2519-58,Dupilumab,Approved,Medicaid,No,No,No,269.11,90,Yes,,81.88,No,Retail,Midwest,Neurology
+79e581a4-1b09-4663-8be3-70ca6bd5acb5,11-11-2023,70217-9785-25,Adalimumab,Rejected,Medicaid,No,Yes,No,459.77,90,Yes,14-03-2025,177.57,No,Specialty,South,Rheumatology
+7682f755-c25b-494e-a6b1-97d98ea838bb,14-06-2024,93810-2824-13,Pembrolizumab,Pending,Self-pay,Yes,No,Yes,25.14,60,No,,63.5,Yes,Specialty,Northeast,Rheumatology
+4972611a-46c2-423a-a29a-3cfe251f8d52,27-12-2024,65392-6574-45,Bevacizumab,Rejected,Medicaid,No,No,Yes,235.15,90,Yes,02-05-2025,104.99,Yes,Retail,West,Neurology
+be6611fc-9471-4dbc-94f6-7e578a21ad3e,07-04-2024,28289-2679-96,Adalimumab,Approved,Medicare,Yes,Yes,Yes,119.27,60,Yes,,65.39,No,Specialty,South,Cardiology
+242d5418-e88c-469f-a274-b486a4bef7b0,19-02-2025,38893-8359-85,Bevacizumab,Approved,Military,Yes,Yes,No,54.05,7,No,,172.74,Yes,Specialty,South,Endocrinology
+0a04673d-d30c-4afd-bbea-bfc048aef516,26-08-2024,23396-2519-58,Erenumab,Pending,Medicare,Yes,Yes,Yes,348.6,30,Yes,08-05-2025,169.78,Yes,Specialty,Northeast,Neurology
+e7370487-a68e-4a77-b8de-4bb88e54c1df,12-01-2025,46048-5012-38,Bevacizumab,Pending,Self-pay,No,Yes,No,6.33,60,No,,31.66,Yes,Specialty,West,Oncology
+f8adfcb0-db91-416b-a3ad-9e021345c94b,08-09-2024,30379-4527-53,Dupilumab,Pending,Medicare,No,Yes,No,307.96,90,No,,139.46,No,Mail Order,Northeast,Cardiology
+9aae4570-8bb4-4b93-a825-dba6162c488e,17-02-2025,35203-2139-15,Imatinib,Rejected,Medicare,Yes,No,No,121.93,60,No,,100.92,No,Mail Order,Midwest,Endocrinology
+0053fa02-7d52-49c0-9d9f-cfaf610252ae,02-05-2024,70217-9785-25,Bevacizumab,Approved,Self-pay,Yes,No,No,170.17,90,No,,166.74,No,Mail Order,Midwest,Rheumatology
+47300e32-31f8-4213-a4ca-4b8b75cf329d,22-09-2024,59615-2291-80,Trastuzumab,Approved,Medicare,No,No,Yes,345.3,60,No,,237.88,No,Retail,South,Oncology
+26c5e248-d550-4399-a9a6-49aeb58dad30,26-07-2024,28289-2679-96,Imatinib,Approved,Self-pay,Yes,No,No,236.63,90,No,,127.65,Yes,Retail,West,Rheumatology
+2a8f96aa-1bf8-495a-a945-45f5c6b50c92,24-01-2024,48427-6925-83,Bevacizumab,Rejected,Self-pay,No,No,No,115.27,14,No,,35.87,Yes,Retail,Midwest,Oncology
+dc310097-64a7-43f3-abd8-c2fd33d3abbd,03-11-2024,48427-6925-83,Nivolumab,Approved,Medicare,No,No,No,490.26,14,No,,68.24,Yes,Mail Order,Midwest,Endocrinology
+8fd94631-3967-4309-aaf5-e4b30f2711e1,27-04-2024,22280-4582-39,Imatinib,Approved,Military,Yes,No,Yes,487.15,90,No,,209.23,Yes,Retail,Midwest,Oncology
+46ed9295-549a-4e0b-ad12-be11fdaea463,26-11-2023,65302-1520-13,Dupilumab,Approved,Commercial,No,No,No,220.23,14,Yes,,258.52,No,Specialty,Midwest,Endocrinology
+8ea02bff-e0c7-4b18-a4b6-5e1b5941acc5,13-08-2024,81482-2424-85,Pembrolizumab,Rejected,Self-pay,Yes,Yes,Yes,74.6,90,No,,25.55,No,Specialty,Northeast,Neurology
+5c1cc799-a218-476d-a0f6-c15782ff614e,23-03-2024,36062-9928-63,Pembrolizumab,Pending,Self-pay,Yes,No,No,454.25,30,No,,91.61,No,Specialty,South,Neurology
+3773d58f-e61c-4f87-b3a7-aeb56398c46e,10-08-2024,96673-4733-47,Adalimumab,Pending,Commercial,Yes,Yes,No,330.21,14,Yes,,22.52,Yes,Specialty,South,Oncology
+c55123ae-bcf8-4a06-a9ee-cb3f712ac334,18-05-2025,93810-2824-13,Erenumab,Rejected,Military,No,No,Yes,115.74,30,No,,21.35,Yes,Specialty,Midwest,Cardiology
+35c78673-dc55-4bcd-868b-4e8a727c88cf,03-11-2024,36062-9928-63,Imatinib,Pending,Military,Yes,No,Yes,272.28,14,No,,247.99,Yes,Specialty,South,Rheumatology
+7b926b2e-4a39-411e-a86f-a2f22e6edbd7,09-07-2024,28289-2679-96,Adalimumab,Approved,Medicaid,No,No,Yes,234.35,30,No,,282.8,Yes,Specialty,South,Oncology
+0b729e7a-dd3c-473a-9780-5d023ad4fe99,18-08-2024,59615-2291-80,Infliximab,Rejected,Self-pay,Yes,Yes,No,367.27,90,No,,7.76,No,Retail,South,Oncology
+9a3f15e2-3809-481a-9d02-4c04a3d5a05a,18-12-2024,36062-9928-63,Etanercept,Pending,Commercial,No,Yes,Yes,235.25,60,No,,54.45,No,Mail Order,South,Rheumatology
+1e7fb0be-bd9b-443b-8416-667c1da6fbe3,06-11-2023,35203-2139-15,Erenumab,Pending,Self-pay,Yes,No,No,204.17,30,Yes,11-02-2024,98.94,Yes,Mail Order,Northeast,Oncology
+50c5f85c-771c-449c-9774-2786fb0f9ace,21-05-2025,70217-9785-25,Imatinib,Pending,Self-pay,Yes,No,Yes,157.26,30,Yes,26-05-2025,121.25,Yes,Mail Order,Midwest,Rheumatology
+99c44e7b-0269-45a5-b773-9ef81fe0d07f,31-05-2024,59615-2291-80,Adalimumab,Pending,Military,No,No,Yes,93.79,30,No,,187.62,No,Mail Order,West,Endocrinology
+57203244-ae29-450b-9662-e7c554ee05d2,23-05-2025,46048-5012-38,Trastuzumab,Rejected,Military,Yes,No,No,440.42,60,Yes,,189.01,Yes,Specialty,Northeast,Cardiology
+4a0ab346-ddb1-4617-bab5-1129847b99f4,09-08-2024,36062-9928-63,Nivolumab,Rejected,Military,Yes,No,Yes,112.35,7,No,,284.12,Yes,Specialty,South,Neurology
+ec6bfb6a-5d21-4950-a15e-2dba3d7c61c1,22-05-2024,65302-1520-13,Dupilumab,Pending,Medicaid,No,No,No,490.12,14,No,,165.38,No,Specialty,Midwest,Neurology
+b67e4648-2c08-4af2-a4a5-204490795e31,14-12-2023,23396-2519-58,Trastuzumab,Pending,Military,Yes,Yes,No,386.34,60,No,,280.27,Yes,Specialty,Midwest,Cardiology
+d51edc3e-5217-4a60-9816-7d59135cc3c5,14-11-2024,59615-2291-80,Imatinib,Approved,Medicaid,No,No,Yes,223.27,60,No,,99.73,Yes,Retail,Midwest,Rheumatology
+465c7bb8-c80a-4e36-b3bd-5333d7fb3d89,05-12-2023,48427-6925-83,Erenumab,Rejected,Medicaid,Yes,Yes,No,116.78,60,Yes,,141.89,Yes,Mail Order,Midwest,Cardiology
+67e0eec1-901c-43cc-bbb1-965c2f1e277c,06-04-2024,23396-2519-58,Erenumab,Pending,Medicare,No,Yes,Yes,251.15,90,No,,260.91,No,Retail,South,Rheumatology
+3da27143-2451-4e01-b79a-9f8179b54836,01-11-2024,89131-5333-15,Pembrolizumab,Pending,Self-pay,Yes,Yes,No,435.47,14,Yes,,290.76,Yes,Mail Order,Midwest,Cardiology
+4d168eab-2a00-4bd0-b2e7-f8ede11000ea,05-12-2023,65392-6574-45,Etanercept,Pending,Self-pay,Yes,No,No,477.07,60,Yes,,70.43,No,Retail,West,Oncology
+1f7c8854-8da2-4e65-b9ea-5a55481175d6,27-01-2024,46463-1106-30,Trastuzumab,Pending,Commercial,No,Yes,Yes,221.84,30,Yes,,238.84,Yes,Mail Order,West,Oncology
+232f04b7-a652-46f4-96b2-f14d0569b7dc,12-04-2024,46463-1106-30,Bevacizumab,Rejected,Self-pay,Yes,Yes,No,282.96,14,Yes,,182.85,Yes,Mail Order,Midwest,Cardiology
+24f729d2-94a0-4095-a57a-3ecd41f57845,12-08-2024,23396-2519-58,Etanercept,Pending,Medicare,No,Yes,Yes,230.57,30,No,,76.6,No,Retail,South,Endocrinology
+a38be705-5288-4229-a21b-d2abaa97ca2e,23-06-2024,93810-2824-13,Dupilumab,Rejected,Military,Yes,Yes,No,472.62,90,No,,191.68,No,Retail,West,Cardiology
+c29efd26-a320-46c2-866c-5c8a0016e8a1,05-03-2024,22676-6881-54,Imatinib,Rejected,Medicaid,Yes,No,No,53.33,60,No,,172.44,No,Specialty,West,Neurology
+306ac16b-2bcd-43d2-b4dd-faf56bc9af76,13-09-2024,46463-1106-30,Adalimumab,Pending,Self-pay,No,Yes,Yes,455.31,60,No,,232.72,Yes,Retail,West,Oncology
+e555c05a-e8d5-4a72-ab93-666ac3485394,03-10-2024,36062-9928-63,Etanercept,Rejected,Medicare,Yes,No,Yes,314.12,7,No,,236.58,Yes,Mail Order,Northeast,Cardiology
+5b14aa32-44fc-4c81-b424-3982e74709db,01-08-2023,46048-5012-38,Etanercept,Rejected,Medicare,Yes,No,No,373.74,14,Yes,,161.82,No,Mail Order,Northeast,Neurology
+d51d8614-2e29-48c8-ac7a-68ae80853f45,19-05-2025,30379-4527-53,Infliximab,Pending,Medicaid,Yes,No,No,483.69,30,No,,241.27,Yes,Mail Order,West,Oncology
+17637e79-df38-4005-a643-8615ac8ae037,17-04-2024,89131-5333-15,Pembrolizumab,Approved,Medicare,No,No,Yes,395.34,7,No,,160.97,Yes,Mail Order,South,Endocrinology
+de12b33c-5ba7-4c98-a20f-5409d29d6a42,20-01-2025,89131-5333-15,Bevacizumab,Pending,Medicaid,No,No,Yes,337.42,60,Yes,,282.95,No,Retail,South,Endocrinology
+fd638003-beb4-47f5-ac63-c81c16aec77a,10-08-2023,65392-6574-45,Etanercept,Approved,Commercial,No,No,No,58.34,7,Yes,,147.79,Yes,Specialty,West,Neurology
+d9c716f7-48be-4b79-8236-63da198c61df,10-06-2024,81482-2424-85,Trastuzumab,Pending,Medicare,No,No,No,335.24,90,No,,176.2,Yes,Mail Order,West,Cardiology
+44bf1c2e-f4a2-4792-8890-e158b32d1947,28-05-2025,65302-1520-13,Erenumab,Pending,Commercial,No,No,No,16.36,30,Yes,,285.17,No,Mail Order,South,Oncology
+83b63c83-3f3e-4376-87fd-3854cae1d19d,16-02-2024,30379-4527-53,Pembrolizumab,Pending,Medicaid,No,Yes,No,137.94,7,No,,27.5,No,Mail Order,Northeast,Endocrinology
+b0da49f2-b10d-41e4-a0dd-fbf33392856d,02-06-2025,76237-1434-81,Etanercept,Approved,Commercial,No,Yes,Yes,393.49,14,Yes,26-06-2025,166.26,No,Retail,Northeast,Neurology
+2f502b95-f63d-461c-9bee-6f1539a73d5a,08-08-2023,35203-2139-15,Trastuzumab,Approved,Medicaid,Yes,Yes,No,429.2,14,Yes,,239.55,Yes,Mail Order,West,Rheumatology
+c7f35150-c834-4a8a-97a1-79d5c7f17848,16-09-2023,81482-2424-85,Adalimumab,Approved,Commercial,No,Yes,No,7.89,30,Yes,,126.29,No,Specialty,South,Cardiology
+f533e211-360e-4f92-aefa-8e5804a68164,09-12-2024,81482-2424-85,Pembrolizumab,Rejected,Self-pay,No,Yes,No,251.92,90,Yes,25-06-2025,272.63,No,Specialty,Northeast,Rheumatology
+3c6c24fc-42b9-4166-bbe8-412a451e3f44,25-07-2024,59615-2291-80,Imatinib,Rejected,Commercial,Yes,No,No,213.14,7,No,,213.72,No,Mail Order,West,Cardiology
+bd9bef87-6f33-4f7e-91d8-db590187d490,04-03-2025,89131-5333-15,Pembrolizumab,Approved,Medicaid,Yes,Yes,Yes,137.51,90,No,,114.27,Yes,Mail Order,Midwest,Oncology
+5abfd285-4c53-48b7-b8e3-8ffbbffe3dce,03-02-2025,96673-4733-47,Infliximab,Rejected,Self-pay,No,Yes,Yes,426.4,90,Yes,,266.43,No,Retail,West,Neurology
+392c1ebb-965d-4505-ac92-c28c5ceaa1e3,23-08-2023,22676-6881-54,Bevacizumab,Rejected,Self-pay,No,Yes,No,213.38,30,No,,286.08,No,Mail Order,Midwest,Oncology
+65c47890-1bf2-46de-8809-dae9495927a6,05-11-2023,70217-9785-25,Pembrolizumab,Approved,Commercial,Yes,No,Yes,372.29,30,Yes,,175.94,No,Retail,West,Rheumatology
+b4efcff8-3302-4b07-801a-0baf7a7cb6db,04-05-2024,48427-6925-83,Infliximab,Rejected,Commercial,No,No,No,434.05,7,No,,180.12,Yes,Specialty,South,Neurology
+97453a2b-6e99-48a3-9c25-26ce34b05b01,28-02-2025,30379-4527-53,Pembrolizumab,Pending,Military,Yes,Yes,No,112.12,7,No,,253.61,No,Retail,South,Oncology
+be5fe9f1-569c-4e04-a629-a0389c02932b,16-05-2025,30379-4527-53,Pembrolizumab,Rejected,Military,Yes,No,Yes,304.5,30,Yes,,210.81,Yes,Retail,South,Oncology
+c1c0d8be-ce83-4500-ad66-7d3731c6acdc,30-08-2023,46463-1106-30,Bevacizumab,Rejected,Commercial,Yes,Yes,No,34.79,7,Yes,29-01-2024,64.54,No,Mail Order,South,Oncology
+e1594300-62e2-4f3e-8530-5d6ddedfe648,27-03-2024,22676-6881-54,Dupilumab,Rejected,Medicare,No,No,No,388.42,90,Yes,09-01-2025,46.67,Yes,Specialty,Midwest,Rheumatology
+82bd3880-ea9a-43b4-bcc9-1cca3d3c565a,12-05-2024,96673-4733-47,Adalimumab,Pending,Commercial,No,No,No,242.83,60,No,,81.95,Yes,Retail,West,Oncology
+8dfc0523-e654-4b90-8429-b6f4f76ffc70,08-10-2024,59615-2291-80,Pembrolizumab,Rejected,Self-pay,Yes,No,No,263.47,30,Yes,,295.33,Yes,Specialty,South,Endocrinology
+69c5c6ce-e3c2-4470-9898-d6faafe05434,01-06-2024,46048-5012-38,Adalimumab,Approved,Medicaid,Yes,Yes,No,144.72,7,Yes,,129.2,No,Retail,Northeast,Cardiology
+f2facab4-48a7-440e-a1a2-69413b6fd29c,21-07-2024,65302-1520-13,Erenumab,Pending,Medicare,No,Yes,No,430.88,7,No,,5.62,Yes,Specialty,Northeast,Endocrinology
+aad8af48-6835-4fe9-bce5-8a4e0af3718e,13-03-2025,28289-2679-96,Bevacizumab,Pending,Self-pay,No,No,No,57.59,7,No,,51.56,No,Retail,Northeast,Rheumatology
+27f61d2e-941a-4db8-b678-07633064fd09,13-05-2025,96673-4733-47,Dupilumab,Pending,Medicaid,Yes,No,Yes,121.66,90,No,,157.19,Yes,Specialty,West,Rheumatology
+c6b78fd4-9a81-4057-960e-6a5185b37fc6,08-12-2023,23396-2519-58,Imatinib,Pending,Medicaid,Yes,No,Yes,38.19,7,Yes,02-10-2024,104.81,No,Retail,Northeast,Oncology
+04fb25ca-f75f-43c0-a13a-36a79a2e0721,29-06-2024,65302-1520-13,Trastuzumab,Approved,Medicare,No,Yes,Yes,301.2,7,Yes,14-08-2024,188.38,No,Specialty,Northeast,Neurology
+4fdd580f-9073-4d11-b184-6e32a22ae1da,13-11-2023,89131-5333-15,Etanercept,Pending,Self-pay,No,No,Yes,219.88,60,No,,189.42,No,Retail,Midwest,Endocrinology
+6c570eb5-d2af-4e09-9884-30f750308891,26-12-2023,38893-8359-85,Etanercept,Approved,Medicaid,Yes,No,No,225.96,7,No,,249.51,Yes,Mail Order,West,Rheumatology
+ce22c5b6-e29a-4ecf-80a9-89f64e29619e,01-01-2025,28289-2679-96,Pembrolizumab,Pending,Military,No,No,Yes,224.87,90,Yes,,142.69,Yes,Specialty,West,Cardiology
+637dc2f8-5a7e-4221-a5ee-9545d71b6868,25-06-2025,65302-1520-13,Adalimumab,Rejected,Commercial,No,Yes,Yes,19.57,60,No,,157.22,Yes,Mail Order,Northeast,Rheumatology
+579a5bef-da68-4d49-a04a-fdb7bb38aec3,27-03-2025,96673-4733-47,Nivolumab,Rejected,Medicaid,No,No,No,387.23,90,Yes,20-07-2025,194.19,No,Mail Order,West,Endocrinology
+ffe2e280-8176-4478-9a63-98a3dedf9346,18-11-2024,28289-2679-96,Bevacizumab,Approved,Military,No,No,No,361.87,90,Yes,,174.82,No,Retail,Midwest,Cardiology
+5c5fac90-8c8b-4158-917f-db8e06c76a7f,29-04-2025,65302-1520-13,Bevacizumab,Rejected,Self-pay,Yes,Yes,No,279.46,30,Yes,,248.69,No,Mail Order,Midwest,Cardiology
+97212a87-ce18-4dfa-be05-89c745148824,21-12-2023,59615-2291-80,Pembrolizumab,Pending,Self-pay,No,Yes,No,154.43,14,No,,284.3,No,Specialty,South,Oncology
+dafc2ee2-1eb2-4d15-bc87-ac833d979203,27-01-2025,70217-9785-25,Trastuzumab,Approved,Medicare,Yes,Yes,No,422.21,7,Yes,,262.92,Yes,Retail,Midwest,Neurology
+b9c7cff1-4df7-4211-8b68-1dc717f77397,24-08-2023,96673-4733-47,Nivolumab,Pending,Self-pay,Yes,Yes,Yes,415.67,90,Yes,02-08-2024,13.11,Yes,Retail,South,Cardiology
+6824fe5e-d709-4000-b7a0-7b9a5e18677a,29-01-2024,30379-4527-53,Trastuzumab,Rejected,Military,No,No,Yes,267.01,30,No,,271.19,Yes,Specialty,Northeast,Oncology
+7c84bcea-83b9-4d67-952a-b79637261b02,28-08-2023,76237-1434-81,Bevacizumab,Pending,Military,No,No,No,389.06,90,No,,289.88,Yes,Specialty,South,Neurology
+138f432e-0e85-47a6-9975-a3b312307ff7,12-03-2024,76237-1434-81,Etanercept,Approved,Medicaid,Yes,No,No,277.27,7,Yes,,228.94,No,Mail Order,South,Oncology
+2f195487-9ff1-47fd-bfbd-74808e1fe50e,24-02-2024,38893-8359-85,Dupilumab,Pending,Medicare,No,Yes,Yes,408.35,30,Yes,,118.94,No,Mail Order,Northeast,Rheumatology
+8d54d64b-5d18-4263-942d-97cbda81b76d,02-11-2023,30379-4527-53,Trastuzumab,Rejected,Commercial,No,Yes,Yes,159.34,7,No,,237.41,No,Retail,South,Rheumatology
+fd96e704-b4d4-4d47-bdd0-c2ed5f580be5,26-08-2023,65302-1520-13,Adalimumab,Rejected,Self-pay,Yes,No,No,307.67,7,Yes,,250.49,Yes,Specialty,Midwest,Neurology
+bac8c290-f072-4e1f-bd3e-d3bded0e49d7,07-06-2024,48427-6925-83,Etanercept,Pending,Self-pay,Yes,No,Yes,150.58,7,Yes,,238.17,Yes,Specialty,Northeast,Oncology
+1843391b-cac7-4b36-a669-0324166f6db9,28-06-2024,89131-5333-15,Pembrolizumab,Approved,Self-pay,Yes,Yes,Yes,145.64,7,No,,72.17,Yes,Retail,West,Endocrinology
+13c20ca4-6e8a-4b31-b262-7662267c35d1,23-08-2024,22676-6881-54,Nivolumab,Pending,Commercial,No,Yes,Yes,195.23,60,Yes,,294.31,No,Mail Order,South,Oncology
+19679a51-cca3-429e-90f8-69c46cff99b6,24-05-2024,38893-8359-85,Adalimumab,Rejected,Commercial,No,Yes,Yes,385.75,30,Yes,,163.8,Yes,Specialty,Midwest,Endocrinology
+b21a9797-f2a4-4b4c-8766-c2d6ac905758,09-03-2024,22280-4582-39,Dupilumab,Pending,Self-pay,Yes,Yes,Yes,358.02,60,Yes,,13.14,No,Mail Order,West,Cardiology
+60770c74-9063-4aec-ab65-8b2c61ada9ac,14-12-2023,76237-1434-81,Adalimumab,Rejected,Medicaid,No,No,No,18.31,14,No,,107.09,No,Mail Order,Northeast,Cardiology
+12464a86-9430-4efd-9904-615006328560,22-04-2024,46048-5012-38,Bevacizumab,Rejected,Commercial,No,No,No,371.65,60,No,,292.12,Yes,Retail,Northeast,Cardiology
+e29e348e-57d3-4118-b68d-938defbc4033,09-08-2024,70217-9785-25,Dupilumab,Rejected,Military,No,Yes,No,39.46,90,Yes,,96.36,No,Specialty,Northeast,Oncology
+fb87caf0-4219-48f8-ab60-89d02ac7c69b,06-10-2024,28289-2679-96,Bevacizumab,Pending,Medicaid,No,No,No,83.32,60,No,,134.14,No,Retail,Midwest,Neurology
+71f3bbb7-82b9-49e3-bb87-78d7517f2729,07-01-2024,30379-4527-53,Etanercept,Rejected,Medicaid,Yes,Yes,No,181.66,14,Yes,,182.27,No,Retail,West,Endocrinology
+01f36ce9-0c0b-4b1f-8c27-320adb5e8cb5,01-05-2024,89131-5333-15,Adalimumab,Approved,Commercial,Yes,No,No,191.43,90,Yes,,203.72,Yes,Mail Order,Northeast,Oncology
+04d2ee3b-4e09-4d43-971b-925bed27d27d,20-02-2024,30379-4527-53,Bevacizumab,Rejected,Commercial,Yes,No,No,157.19,30,Yes,09-05-2024,7.77,Yes,Specialty,Midwest,Cardiology
+3357dc35-50c5-4da6-a5ac-222ead006fe6,03-06-2025,22280-4582-39,Dupilumab,Pending,Self-pay,Yes,No,No,352.02,14,No,,208.19,Yes,Retail,Midwest,Rheumatology
+ac6063b2-c081-4c5a-832b-3e2015b0587c,09-10-2024,70217-9785-25,Trastuzumab,Approved,Medicare,Yes,No,Yes,449.34,60,Yes,10-05-2025,290.27,No,Specialty,West,Cardiology
+41365d62-6523-4e3d-8a9b-651ed294abe6,31-03-2025,65392-6574-45,Bevacizumab,Pending,Commercial,No,No,Yes,355.9,14,No,,152.63,Yes,Retail,Northeast,Neurology
+bef4194e-4e38-4708-b5aa-1432083730bd,23-10-2023,81482-2424-85,Trastuzumab,Approved,Medicare,No,Yes,No,277.01,30,No,,241.1,Yes,Specialty,Northeast,Cardiology
+2e4b5876-9237-42ca-804c-55e652cccccd,04-07-2024,48427-6925-83,Nivolumab,Pending,Commercial,Yes,No,No,499.8,60,No,,230.75,No,Retail,South,Neurology
+5ce580e2-eec0-4c69-998b-c3161a313c95,06-06-2024,35203-2139-15,Pembrolizumab,Approved,Medicaid,Yes,No,No,340.05,30,Yes,22-06-2025,234.08,No,Mail Order,Northeast,Rheumatology
+8b061532-4b48-41e4-9f18-7d6f6e602fda,02-06-2025,35203-2139-15,Nivolumab,Approved,Self-pay,Yes,Yes,Yes,152.06,14,No,,280.42,No,Mail Order,West,Endocrinology
+faf6383f-d552-449a-be25-b6034fc6e2c8,27-12-2023,36062-9928-63,Bevacizumab,Pending,Medicaid,Yes,No,Yes,317.53,90,No,,37.55,No,Retail,Midwest,Cardiology
+ea996f74-fc00-4d91-9b5e-70126f02eefa,29-05-2025,46463-1106-30,Etanercept,Pending,Commercial,Yes,Yes,Yes,329.37,90,No,,252.76,Yes,Mail Order,West,Neurology
+0fad3efa-5e2e-46a1-a2a5-ca9b0910c0ac,24-07-2023,35203-2139-15,Adalimumab,Approved,Commercial,Yes,No,Yes,383.48,60,Yes,,188.15,Yes,Retail,Northeast,Endocrinology
+1ae9af35-4a45-407e-8b1f-a23779e45368,07-08-2023,46463-1106-30,Imatinib,Rejected,Medicare,No,No,No,36.49,7,Yes,,145.28,Yes,Mail Order,Midwest,Rheumatology
+49b6c28a-be21-4065-89c1-6db80372fd29,13-03-2025,76237-1434-81,Bevacizumab,Pending,Medicare,No,No,No,487.69,14,No,,154.49,No,Specialty,West,Neurology
+fc210880-53b5-4685-85ee-03205f9fd1f6,08-03-2025,81482-2424-85,Bevacizumab,Approved,Self-pay,Yes,No,No,123.96,7,Yes,,115.24,No,Mail Order,Northeast,Rheumatology
+1929c352-233a-4f6d-844a-13e9a3aba894,02-09-2023,96673-4733-47,Erenumab,Approved,Medicare,No,No,Yes,381.56,60,No,,149.63,No,Specialty,Northeast,Rheumatology
+d9ae4c86-d480-4c57-b305-a01207d84821,24-06-2024,46463-1106-30,Dupilumab,Approved,Commercial,No,No,Yes,107.57,30,Yes,,148.47,No,Specialty,Northeast,Oncology
+e2f78d9f-df0c-4f28-8395-2630dfce1342,04-04-2024,70217-9785-25,Imatinib,Pending,Commercial,Yes,No,Yes,441.23,30,No,,109.78,No,Mail Order,South,Endocrinology
+ef157c2d-fff7-4d6b-bad1-60fa7830fcbe,09-12-2024,23396-2519-58,Adalimumab,Pending,Military,Yes,No,No,36.77,90,No,,229.32,Yes,Specialty,South,Oncology
+3b767a31-590a-4799-b5fa-2f19d5a546f2,18-03-2024,38893-8359-85,Etanercept,Pending,Military,Yes,Yes,Yes,196.95,30,No,,226.49,No,Mail Order,South,Rheumatology
+5344c1d0-1677-4dca-ada9-b26c32458b66,14-04-2024,76237-1434-81,Etanercept,Pending,Self-pay,Yes,Yes,Yes,68.52,30,No,,155.8,No,Specialty,Midwest,Neurology
+4ccbb70f-cf05-4fa5-8a15-cd9a701b1a96,22-06-2024,65302-1520-13,Etanercept,Pending,Medicare,No,No,Yes,196.48,90,No,,178.12,Yes,Mail Order,West,Cardiology
+e712363e-bc9e-4e5e-9a21-30285946ee51,03-09-2023,59615-2291-80,Infliximab,Pending,Self-pay,No,No,Yes,184.18,7,No,,175.11,No,Specialty,Midwest,Oncology
+e9bdd59a-0545-4de5-a294-1bf4926eb92f,27-02-2024,93810-2824-13,Etanercept,Rejected,Medicaid,Yes,Yes,No,85.26,90,No,,44.33,Yes,Retail,Midwest,Cardiology
+a96062e4-793e-4d2c-b2de-8653f680fc35,06-08-2024,36062-9928-63,Adalimumab,Pending,Commercial,Yes,Yes,No,156.85,14,No,,207.15,No,Mail Order,Northeast,Oncology
+7379d9d8-ff59-42f4-aad6-1b776e033d27,18-08-2024,22676-6881-54,Infliximab,Pending,Self-pay,Yes,Yes,Yes,280.44,60,No,,94.13,Yes,Mail Order,Northeast,Endocrinology
+894cb099-0acc-47dc-aa01-58765df2418d,25-05-2024,22280-4582-39,Dupilumab,Pending,Medicaid,No,No,No,96.13,14,No,,167.43,Yes,Mail Order,Midwest,Cardiology
+bb9a06c5-33fe-43dd-b2ad-b75a57a5c222,13-11-2023,36062-9928-63,Imatinib,Rejected,Medicare,No,No,No,174.4,30,No,,36.56,No,Specialty,West,Oncology
+2d21c73d-19c6-45b9-b519-6c06e6f8d97f,03-07-2025,48427-6925-83,Erenumab,Rejected,Medicaid,Yes,No,Yes,143.82,7,No,,277.2,Yes,Retail,South,Rheumatology
+9f303966-836d-4707-869a-48a0ff6f1286,12-07-2025,38893-8359-85,Dupilumab,Approved,Medicare,No,No,Yes,54.61,90,Yes,,200.95,No,Specialty,Midwest,Neurology
+e361b37c-f175-4b42-b6ad-78b02207ea0a,22-02-2024,59615-2291-80,Trastuzumab,Pending,Medicare,Yes,Yes,No,165.15,60,Yes,,41.24,No,Specialty,Midwest,Rheumatology
+43cda8a3-9351-4208-ac20-30c4759981c7,06-02-2024,48427-6925-83,Nivolumab,Rejected,Self-pay,No,Yes,No,160.58,7,Yes,,69.67,No,Mail Order,West,Endocrinology
+cd1b36e9-afab-4a04-a53f-922240847447,08-02-2025,46048-5012-38,Nivolumab,Rejected,Medicare,Yes,No,No,93.16,30,Yes,,170.39,No,Specialty,West,Endocrinology
+e5887760-8746-4679-aa8d-b6851336b9b2,07-11-2023,81482-2424-85,Bevacizumab,Rejected,Self-pay,No,Yes,No,136.42,7,No,,48.75,No,Specialty,Midwest,Oncology
+82a335b7-ae1f-409f-a050-93ad26085a62,28-05-2024,89131-5333-15,Imatinib,Pending,Medicare,Yes,No,No,283.89,14,Yes,,191.62,No,Retail,Northeast,Rheumatology
+924cf485-ce66-4d3c-ad7c-24555a6ba8d7,29-08-2024,23396-2519-58,Erenumab,Pending,Medicaid,Yes,No,Yes,92.39,14,No,,97.08,No,Specialty,Northeast,Cardiology
+7ec99feb-479e-4564-b1db-0d3bc5b488f4,27-10-2023,36062-9928-63,Adalimumab,Rejected,Self-pay,Yes,No,No,477.02,30,Yes,,107.87,Yes,Retail,Midwest,Oncology
+7d7e34be-8950-48d7-8874-99defa426b9a,02-10-2023,36062-9928-63,Adalimumab,Pending,Commercial,No,No,Yes,202.71,90,No,,207.09,No,Mail Order,Northeast,Oncology
+5aefc181-28c4-4fbc-b326-67d01560a8bb,22-06-2024,46463-1106-30,Bevacizumab,Pending,Medicare,Yes,Yes,No,76.59,90,No,,124.75,No,Retail,West,Rheumatology
+301b69dd-546b-4a99-8f29-619ce4ce1aa4,20-03-2025,48427-6925-83,Dupilumab,Pending,Medicare,Yes,Yes,No,264.09,30,Yes,21-04-2025,33.66,Yes,Retail,South,Neurology
+3b92f50e-c5d7-4951-b2dd-a74d38cf6da9,08-05-2024,48427-6925-83,Infliximab,Approved,Military,Yes,Yes,No,427.24,60,Yes,,215.08,No,Mail Order,West,Endocrinology
+089f8b0f-1068-47d3-99c5-aa823331fc71,15-03-2025,70217-9785-25,Pembrolizumab,Pending,Self-pay,Yes,No,Yes,256.62,60,Yes,,201.83,No,Retail,South,Cardiology
+9b314df1-3f9e-4f18-b6dd-628b0fde63b2,12-12-2023,46463-1106-30,Adalimumab,Rejected,Medicaid,Yes,Yes,Yes,22.64,30,Yes,,18.08,Yes,Retail,Midwest,Endocrinology
+cf0e2692-d1a5-4517-b125-4e8ebab3b985,29-09-2023,28289-2679-96,Dupilumab,Approved,Medicaid,No,Yes,Yes,382.91,60,No,,297.86,No,Mail Order,Midwest,Oncology
+10ea5d10-c11b-4f57-a7a2-a1008df75488,29-04-2024,23396-2519-58,Dupilumab,Rejected,Self-pay,Yes,Yes,No,59.32,90,No,,158.65,No,Specialty,South,Neurology
+f05d60c8-6463-4737-b10b-296ae83e8dfe,10-06-2024,36062-9928-63,Adalimumab,Approved,Medicaid,No,No,No,411.68,14,No,,103.85,No,Retail,Northeast,Oncology
+9a25df73-3442-43b8-a4a9-7b837b6864d9,19-06-2025,38893-8359-85,Trastuzumab,Pending,Commercial,Yes,No,Yes,120.33,7,Yes,,133.93,No,Specialty,Midwest,Neurology
+04288083-b74f-46a8-b846-a9a1e2091153,02-01-2025,46048-5012-38,Trastuzumab,Pending,Commercial,No,No,Yes,269.88,7,Yes,,86.78,Yes,Mail Order,South,Rheumatology
+d9ab053c-d72c-4e0d-b883-de3deca75fb4,10-08-2024,35203-2139-15,Bevacizumab,Pending,Military,No,Yes,No,438.13,90,Yes,,82.55,No,Mail Order,Northeast,Endocrinology
+032389ba-2409-4c3d-a8b6-7dd1a7aa38ab,26-12-2023,48427-6925-83,Etanercept,Pending,Medicare,No,No,Yes,486.15,60,No,,208.89,No,Specialty,South,Oncology
+ad5fc253-7fcf-4326-b62a-8e4a1d9dcf56,23-06-2024,22676-6881-54,Nivolumab,Rejected,Self-pay,Yes,No,Yes,424.67,30,Yes,13-07-2024,274.42,No,Retail,Midwest,Neurology
+d62083cf-9c4c-4144-9c27-0461333b6e46,16-12-2024,48427-6925-83,Erenumab,Rejected,Military,Yes,No,Yes,127.5,30,Yes,10-04-2025,254.14,No,Specialty,Midwest,Neurology
+8c3f2add-876b-407f-af97-e540006d9d5e,19-04-2025,28289-2679-96,Infliximab,Pending,Medicare,Yes,No,No,336.84,90,Yes,24-06-2025,56.45,No,Mail Order,West,Oncology
+41a8a83a-2918-459f-9737-061aaa4fee47,03-11-2024,35203-2139-15,Infliximab,Approved,Self-pay,Yes,No,No,478.51,7,Yes,11-02-2025,288.62,Yes,Mail Order,South,Endocrinology
+530547ee-e0dc-4d7a-a510-4ca48bcc2f91,29-08-2024,81482-2424-85,Dupilumab,Approved,Military,Yes,No,Yes,276.04,30,No,,139.88,Yes,Retail,Northeast,Rheumatology
+647942c5-1c35-41f2-8098-2cde08b37d7e,17-12-2024,30379-4527-53,Imatinib,Rejected,Medicaid,No,No,Yes,401.41,60,No,,274.3,Yes,Mail Order,Midwest,Rheumatology
+6b5cb1ee-d515-40dd-b41b-d95eb1bd431d,22-07-2024,30379-4527-53,Bevacizumab,Rejected,Commercial,Yes,Yes,Yes,130.39,90,No,,88.56,Yes,Specialty,West,Cardiology
+1eea294d-92dd-4c5f-bd93-0f6ab24ecab1,20-03-2025,76237-1434-81,Bevacizumab,Approved,Self-pay,Yes,No,No,128.66,60,No,,138.25,No,Specialty,West,Cardiology
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+10. Out_of_Pocket_Cost,,,,,,,,,,,,,,,,,
+"The amount the patient personally pays after insurance coverage, including copay, deductible, and coinsurance. Important for affordability studies.",,,,,,,,,,,,,,,,,
+Example: $45.00,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+11. Days_Supplied,,,,,,,,,,,,,,,,,
+"The number of days the dispensed quantity is intended to last. Key metric for calculating adherence (e.g., Medication Possession Ratio).",,,,,,,,,,,,,,,,,
+"Example: 30, 90",,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+12. Therapy_Start_Flag,,,,,,,,,,,,,,,,,
+Indicates if the current claim marks the beginning of a new line of therapy. Helps define treatment episodes and patient journeys.,,,,,,,,,,,,,,,,,
+"Example: Yes (new treatment started), No (continuation)",,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+13. Therapy_Discontinuation_Date,,,,,,,,,,,,,,,,,
+"Date when the patient discontinued therapy (gap in refill, switch, or dropout). Can be inferred or explicitly captured in some datasets.",,,,,,,,,,,,,,,,,
+Example: 2024-02-15 or blank if therapy is ongoing,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+14. Patient_Copay_Support,,,,,,,,,,,,,,,,,
+"Shows whether copay assistance (e.g., coupons, foundation support) was available to the patient for this therapy.",,,,,,,,,,,,,,,,,
+"Example: Yes (support offered), No",,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+15. Patient_Copay_Support_Used,,,,,,,,,,,,,,,,,
+Indicates whether the patient actually used the available copay support program to reduce out-of-pocket costs.,,,,,,,,,,,,,,,,,
+"Example: Yes (copay card used), No",,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+16. Channel,,,,,,,,,,,,,,,,,
+"Describes how the product was dispensed—through a retail pharmacy, mail-order, or specialty channel. Useful for access pattern and channel strategy analysis.",,,,,,,,,,,,,,,,,
+"Example: Retail, Mail Order, Specialty Pharmacy",,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+17. Region,,,,,,,,,,,,,,,,,
+"Geographic region or market where the claim originated. Enables regional analysis of uptake, access, and prescribing trends.",,,,,,,,,,,,,,,,,
+"Example: Northeast, South, Midwest, West",,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+18. Prescriber_Specialty,,,,,,,,,,,,,,,,,
+Medical specialty of the healthcare provider who prescribed the medication. Helps identify prescriber behavior and specialty-driven uptake.,,,,,,,,,,,,,,,,,
+"Example: Rheumatology, Oncology, Neurology",,,,,,,,,,,,,,,,,
